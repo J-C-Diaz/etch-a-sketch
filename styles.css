@@ -1,6 +1,8 @@
 #mainContainer{
     display: grid;
 }
-.gridSquare:hover{
-    background-color: aqua;
+
+
+.hovered{
+    background-color: black;
 }
